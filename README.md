@@ -1,0 +1,1 @@
+# ziichat-force-upgrading
